@@ -1,0 +1,9 @@
+body {
+	background: #ff2742;
+}
+
+#svgBlock {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
