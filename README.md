@@ -1,6 +1,5 @@
 # DRAWING ON THE WEB: SVG PROJECT
-## Spring 2016 (Version Control Assignment)
-
+Spring 2016 (Version Control Assignment)
 ----------
 
 ## README SYNTAX REFERENCE
